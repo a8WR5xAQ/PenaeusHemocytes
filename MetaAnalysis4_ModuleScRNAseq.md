@@ -1,4 +1,4 @@
-# Cross-species analysis of scRNA-seq data (python)
+# Gene module expression in scRNA-seq data (python)
 ## Library import
 ```python
 import scanpy as sc
